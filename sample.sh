@@ -1,3 +1,2 @@
-dnf
-
-list installed
+ls
+dnf list installed
