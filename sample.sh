@@ -1,3 +1,3 @@
 ls
 dnf list installed
-cd
+cat sample.sh
