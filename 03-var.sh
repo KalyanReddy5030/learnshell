@@ -7,5 +7,5 @@ b=20
 
 #how to access variable
 
-echo value of a =$a
+echo value of a = $a
 echo value of name = $name
