@@ -4,7 +4,10 @@
 #How to declare function.
 
 abc() {
-  echo hello
-  echo hello world
-  echo hello universe
+  echo hello          #command 1
+  echo hello world    #command 2
+  echo hello universe #command 3
 }
+
+#how to access a function
+abc
