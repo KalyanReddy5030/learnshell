@@ -1,3 +1,4 @@
+#Learn shell repo is for practicing purpose and expenseshell is for implementing topics
 # if we give particular name to your data is called variable.
 #syntax
 #var_name = data
@@ -9,3 +10,4 @@ b=20
 
 echo value of a = $a
 echo value of name = $name
+#in the same way will replicate the same in frontend.sh
